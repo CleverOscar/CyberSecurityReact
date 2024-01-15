@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+#### Application Resources 
+
+##### Template 
+
+- Template URL (https://mobirise.com/extensions/securem4/cyber-security/)
+
+##### Font Styles 
+
+- google fonts href="https://fonts.googleapis.com/css?family=Bellota+Text:300,300i,400,400i,700,700i&display=swap"
+
+- Color Palatte 
+  - RGB(1, 151, 227) **Blue background** 
+  - RGB(54, 25, 125) **Header text color**
+  - RGB(109, 118, 143) **Paragraph text color** 
