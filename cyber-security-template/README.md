@@ -86,3 +86,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   - RGB(1, 151, 227) **Blue background** 
   - RGB(54, 25, 125) **Header text color**
   - RGB(109, 118, 143) **Paragraph text color** 
+  - RGB(242, 243, 247) **Application background**
+
+
+
+  ##### Author Icons
+
+  <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/najmunnahar" title="NajmunNahar">NajmunNahar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

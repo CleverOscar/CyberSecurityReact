@@ -1,11 +1,10 @@
 import './App.css';
+import Header from './components/Header/Header';
 
 function App() {
   return (
     <div>
-      <header >
-        <h1>SECUREM4</h1>
-      </header>
+      <Header />
     </div>
   );
 }
