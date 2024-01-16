@@ -13,6 +13,24 @@ body {
   color:rgba(1, 151, 227, 0.8) !important;
 }
 
+.silver { 
+  color:rgb(242, 243, 247); 
+}
+
 .silver-bg {
   background-color: rgb(242, 243, 247);
+}
+
+.blue-bg {
+  background-color:rgba(1, 151, 227) !important;  
+}
+
+.image-1 {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
+
+.image-2 {
+  filter: sepia(100%);
+  -webkit-filter: sepia(100%);
 }
