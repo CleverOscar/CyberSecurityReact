@@ -17,6 +17,10 @@ body {
   color:rgb(242, 243, 247); 
 }
 
+.silver-text {
+  color:rgb(109,118,143);
+}
+
 .silver-bg {
   background-color: rgb(242, 243, 247);
 }
@@ -34,3 +38,8 @@ body {
   filter: sepia(100%);
   -webkit-filter: sepia(100%);
 }
+
+.purple-text {
+  color:rgb(54, 25, 125);
+}
+
