@@ -6,11 +6,10 @@ export default function Header(){
 
     let tabStyle = "transition ease-in-out duration-500 text-gray-800/50 hover:text-gray-800"
 
-    let border  = "border-2 border-black border-solid";
 
     return(
         <div className='silver-bg'>
-            <header className=" container flex flex-row mx-auto justify-between items-center px-6 py-8 items-center">
+            <header className=" container flex flex-row mx-auto justify-between items-center px-6 lg:px-0  py-8 items-center">
                 <h1 className="blue-font text-3xl md:text-5xl font-black w-1/4 " >SECUREM4</h1>
 
             <div className='hidden lg:flex flex-row items-center '>
