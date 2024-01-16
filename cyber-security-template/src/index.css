@@ -10,5 +10,9 @@ body {
 }
 
 .blue-font {
-  color:RGB(1, 151, 227);
+  color:rgba(1, 151, 227, 0.8) !important;
+}
+
+.silver-bg {
+  background-color: rgb(242, 243, 247);
 }
