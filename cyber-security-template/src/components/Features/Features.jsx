@@ -2,7 +2,7 @@ import Card from './Card'
 
 export default function Features(){
     return(
-        <div className="py-20">
+        <div className="py-20 my-20 ">
             <h2 className="text-center text-6xl font-bold purple-text">Our Features</h2>
 
 
